@@ -1,0 +1,30 @@
+.resume {
+    /* text-align: center; */
+    display:flex;
+    padding:20px;
+    width:100%;
+    list-style: none;
+    line-height: 35px;
+}
+
+.resume-button {
+    margin: 50px;
+    margin-top: 300px;
+    margin-left: -330px;
+}
+
+.resume-button:hover {
+background-color: rgb(44, 68, 44);
+}
+
+.other-skills {
+    margin-left: 100px; 
+}
+
+.la-skills {
+    margin-left:100px;
+}
+
+.ts-skills {
+    margin-left:160px;
+}
